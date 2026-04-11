@@ -78,7 +78,7 @@ Full-stack real-time messaging app using MERN stack + Socket.io with JWT authent
 
 I'm currently open to **Frontend Developer (React)** roles — remote or on-site in Pune.
 
-Feel free to reach out at **prashant2009kr@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG).
+Feel free to reach out at **prashant2009kr@gmail.com** 
 
 ---
 
