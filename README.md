@@ -50,7 +50,7 @@ I'm a Frontend Developer with **4+ years of experience** building scalable SaaS 
 
 ## 🚀 Featured Projects
 
-### 🗂️ [React User Management App](https://github.com/prashant-1012/mini-crm-dashboard)
+### 🗂️ [Mini CRM Dashboard](https://github.com/prashant-1012/mini-crm-dashboard)
 A production-grade CRM Analytics Dashboard built to demonstrate senior-level React + TypeScript frontend architecture.
 > `React` `Tailwind CSS` `TypeScript` `Redux Toolkit` `Recharts` `TanStack Table`
 
