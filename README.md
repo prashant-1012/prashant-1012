@@ -17,7 +17,7 @@ I'm a Frontend Developer with **4+ years of experience** building scalable SaaS 
 - 🔭 Currently working at **DigitalBuzz LLP** — leading frontend development of a multi-role SaaS CRM platform
 - 🛠️ Specialized in **reusable component architecture**, performance-optimized dashboards, and API-driven interfaces
 - ⚡ I've improved rendering performance by ~30% and reduced code duplication by ~40% in production systems
-- 🌱 Currently building a **real-time chat module** using WebSockets & Socket.io
+- 🌱 Built a **real-time chat module** with React, Firebase, and Redux Toolkit
 - 💬 Ask me about React, Redux Toolkit, Tailwind CSS, or building data-heavy dashboards
 
 ---
@@ -46,17 +46,13 @@ I'm a Frontend Developer with **4+ years of experience** building scalable SaaS 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-**Real-time**
-
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🗂️ [React User Management App](https://github.com/prashant-1012/react-crud-firebase)
-A CRUD application with REST API integration, real-time filtering, sorting, and pagination built with React 19 + Tailwind CSS + Axios.
-> `React` `Tailwind CSS` `Axios` `REST API` `Pagination`
+### 🗂️ [React User Management App](https://github.com/prashant-1012/mini-crm-dashboard)
+A production-grade CRM Analytics Dashboard built to demonstrate senior-level React + TypeScript frontend architecture.
+> `React` `Tailwind CSS` `TypeScript` `Redux Toolkit` `Recharts` `TanStack Table`
 
 ---
 
