@@ -61,8 +61,8 @@ A CRUD application with REST API integration, real-time filtering, sorting, and 
 ---
 
 ### 💬 [Real-time Chat App](https://github.com/prashant-1012/pingora-chat-app)
-Full-stack real-time messaging app using MERN stack + Socket.io with JWT authentication, online status, and Cloudinary image support.
-> `React` `Socket.io` `Node.js` `MongoDB` `JWT` `Zustand`
+Pingora is a full-featured real-time messaging app built with React, Firebase, and Redux Toolkit. It supports 1-on-1 direct messages, group chats, presence indicators, emoji reactions, reply threads, and a fully responsive mobile UI.
+> `React` `Firebase Firestore` `React-Redux` `Firebase Auth` `Redux Toolkit` `Tailwind CSS` `Radix UI`
 
 ---
 
