@@ -60,7 +60,7 @@ A CRUD application with REST API integration, real-time filtering, sorting, and 
 
 ---
 
-### 💬 [Real-time Chat App](https://github.com/prashant-1012/chat-app-user)
+### 💬 [Real-time Chat App](https://github.com/prashant-1012/pingora-chat-app)
 Full-stack real-time messaging app using MERN stack + Socket.io with JWT authentication, online status, and Cloudinary image support.
 > `React` `Socket.io` `Node.js` `MongoDB` `JWT` `Zustand`
 
