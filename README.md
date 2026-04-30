@@ -66,8 +66,7 @@ Pingora is a full-featured real-time messaging app built with React, Firebase, a
 ## 📈 What I'm Working On
 
 - 🔧 Improving my **GitHub presence** with polished, documented projects
-- 📚 Learning **TypeScript** to add to my React workflow
-- 🧱 Building a **mini analytics dashboard** to showcase chart integrations and performance patterns
+- 🧱 Building a **multi-tenant SaaS dashboard** with Next.js App Router and TanStack Query
 
 ---
 
