@@ -20,6 +20,7 @@ I'm a Frontend Developer with **4+ years of experience** building scalable SaaS 
 - 🌱 Built a **real-time chat module** with React, Firebase, and Redux Toolkit
 - 💬 Ask me about React, Redux Toolkit, Tailwind CSS, or building data-heavy dashboards
 
+• Previously building on private repos at DigitalBuzz — now open-sourcing personal projects.
 ---
 
 ## 🛠️ Tech Stack
