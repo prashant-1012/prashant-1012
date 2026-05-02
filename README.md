@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Frontend Developer with **4+ years of experience** building scalable SaaS CRM platforms using **React, Redux Toolkit, and Tailwind CSS**.
+I'm a Software Engineer (Frontend) with **4+ years of experience** building scalable SaaS CRM platforms using **React, Redux Toolkit, and Tailwind CSS**.
 
 - 🔭 Currently working at **DigitalBuzz LLP** — leading frontend development of a multi-role SaaS CRM platform
 - 🛠️ Specialized in **reusable component architecture**, performance-optimized dashboards, and API-driven interfaces
