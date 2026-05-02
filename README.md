@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prashant Kumar 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer (React.js) · Pune, India · Open to Remote & On-site</b>
+  <b>Software Engineer - Frontend · Pune, India · Open to Remote & On-site</b>
 </p>
 
 <p align="center">
