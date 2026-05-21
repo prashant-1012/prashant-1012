@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:prashant2009kr@gmail.com">📧 prashant2009kr@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://github.com/prashant-1012">🐙 GitHub</a> &nbsp;|&nbsp;
-  <a href="https://prashant-1012.github.io/my-portfolio">🌐 Portfolio</a>
+  <!-- <a href="https://github.com/prashant-1012">🐙 GitHub</a> &nbsp;|&nbsp; -->
+  <a href="https://prashantkumar-dev.vercel.app/">🌐 Portfolio</a>
 </p>
 
 ---
